@@ -1,13 +1,3 @@
-# TensorFlow
+# TF-Agents
 
-This is the base TensorFlow project.
-
-Conatains:
-
-- Jupyter for interactive development
-
-- Tensorbard for monitoring training process
-
-- Examples of training tasks
-
-- Examples of distributed training tasks
+TF-Agents makes designing, implementing and testing new RL algorithms easier, by providing well tested modular components that can be modified and extended. It enables fast code iteration, with good test integration and benchmarking.
